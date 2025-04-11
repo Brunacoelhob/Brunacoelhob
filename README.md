@@ -17,31 +17,52 @@
 
 ### 🚀 Tecnologias que já usei:
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
+</div>
 
 ---
 
 ### 🌱 Atualmente aprendendo:
 
-- Git e GitHub
-- JavaScript avançado
-- UI/UX Design
-- Bootstrap / Tailwind
-- Python
-- MySQL
+- **JavaScript** — Aprofundando na linguagem para desenvolver projetos mais interativos e funcionais.
+- **HTML** — Base de toda estrutura web, aprimorando semântica e acessibilidade.
+- **CSS** — Trabalhando responsividade, animações e organização com boas práticas.
+- **React** — Construindo interfaces modernas com componentes reutilizáveis.
+- **Adobe XD** — Aprendendo prototipação e design de interfaces focadas em UX.
+- **Python** — Explorando automações e estrutura lógica de programação.
+- **Bootstrap / Tailwind** — Acelerando o desenvolvimento com frameworks modernos de estilização.
+- **MySQL** — Entendendo o uso de bancos de dados relacionais com comandos SQL.
+- **AWS** — Conhecendo os principais serviços da nuvem para hospedar e escalar aplicações.
+- **Oracle Virtual Box** — Criando ambientes de testes seguros com máquinas virtuais.
+- **Nmap / Zenmap** — Iniciando no mundo da segurança e mapeamento de redes.
+- **WinSCP** — Utilizando para transferências seguras de arquivos entre servidores remotos.
 
 ---
 
-### 📫 Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bruna-coelho-82b316133/](https://www.linkedin.com/in/bruna-coelho-/))
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](coelho.brunac@outlook.com)
+### 📬 Como me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-coelho-82b316133/)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:coelho.bruna@outlook.com)
+
+
+---
+
+### 🎨 Meu portfólio visual:
+
+Se você quiser conhecer melhor meu lado criativo, veja meus projetos de design, protótipos e layouts visuais no meu portfólio hospedado no Behance.
+
+<p align="center">
+  <a href="https://www.behance.net/brunacoelh1d89" target="_blank">
+    <img src="https://img.shields.io/badge/-Acessar%20Portfólio%20no%20Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
