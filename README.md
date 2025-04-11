@@ -8,10 +8,10 @@
 
 ### 🧠 Sobre mim:
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Explorando o mundo do Front-end com foco em **HTML, CSS, JavaScript e React**
-- ✨ Gosto de transformar ideias em interfaces bonitas e funcionais
-- 📍 Guarlhos - SP
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+- 💻 Explorando o mundo do Front-end com foco em **HTML, CSS, JavaScript e React**  
+- ✨ Gosto de transformar ideias em interfaces bonitas e funcionais  
+- 📍 Guarulhos - SP
 
 ---
 
@@ -32,13 +32,15 @@
 
 <div align="center">
   <!-- Linha 2 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="60" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="60" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="Oracle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VSCode" />
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" />
-  <img src="https://img.shields.io
-
+  <img src="https://img.shields.io/badge/Nmap-004A80?style=for-the-badge&logo=nmap&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Zenmap-34495E?style=for-the-badge&logo=security&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/WinSCP-0266C8?style=for-the-badge&logo=windows&logoColor=white" height="40" />
+</div>
 
 ---
 
@@ -59,12 +61,10 @@
 
 ---
 
-
 ### 📬 Como me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-coelho-82b316133/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:coelho.bruna@outlook.com)
-
 
 ---
 
@@ -77,7 +77,6 @@ Se você quiser conhecer melhor meu lado criativo, veja meus projetos de design,
     <img src="https://img.shields.io/badge/-Acessar%20Portfólio%20no%20Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
