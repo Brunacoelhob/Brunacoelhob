@@ -11,7 +11,7 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 - 💻 Explorando o mundo do Front-end com foco em **HTML, CSS, JavaScript e React**  
 - ✨ Gosto de transformar ideias em interfaces bonitas e funcionais  
-- 📍 Guarulhos - SP
+- 📍 São Paulo - SP
 
 ---
 
