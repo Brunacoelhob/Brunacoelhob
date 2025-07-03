@@ -28,15 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VSCode" />
 </div>
 
-<br>
-
-<div align="center">
-  <!-- Linha 2 -->
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Zenmap-34495E?style=for-the-badge&logo=security&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/WinSCP-0266C8?style=for-the-badge&logo=windows&logoColor=white" height="40" />
-</div>
-
 ---
 
 ### 🌱 Atualmente aprendendo:
