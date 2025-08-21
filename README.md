@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, eu sou a Bruna!</h1>
 
 <p align="center">
-🚀 Desenvolvedora em formação | Estudante de ADS | Apaixonada por Front-end e tecnologias web!
+🚀 Desenvolvedora em formação | Estudante de ADS | Apaixonada por tecnologias web!
 </p>
 
 ---
