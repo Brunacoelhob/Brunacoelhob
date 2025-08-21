@@ -1,69 +1,47 @@
-<h1 align="center"> Olá, eu sou a Bruna!</h1>
+# 👋 Olá, eu sou o Bruna Coelho! 
 
-<p align="center">
-🚀 Desenvolvedora em formação | Estudante de ADS | Apaixonada por tecnologias web!
-</p>
+Sou um entusiasta da tecnologia e estudante em constante evolução. Iniciei minha jornada na programação pelo **Front-End**, desenvolvendo projetos com HTML, CSS e JavaScript. Atualmente, estou me aprofundando no **Back-End**, aprendendo a criar aplicações robustas, seguras e escaláveis.
 
----
+## 🚀 Transição para o Back-End
 
-### 🧠 Sobre mim:
+Estou explorando a criação e consumo de **APIs RESTful** com foco em boas práticas, segurança e performance. Meus estudos incluem linguagens como **Java** e **Python**, frameworks como **Spring Boot**, e integração com **bancos de dados relacionais** como **MySQL** e **PostgreSQL**.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 💻 Explorando o mundo do Front-end com foco em **HTML, CSS, JavaScript e React**  
-- ✨ Gosto de transformar ideias em interfaces bonitas e funcionais  
-- 📍 São Paulo - SP
+Tenho contato com ambientes profissionais como:
 
----
+- **Apache** (servidor HTTP e outras ferramentas da fundação)
+- **AWS** (uso inicial de serviços como EC2, S3, RDS)
+- **Docker** e **Kubernetes** (para criação e orquestração de containers)
+- IDEs como **IntelliJ IDEA e VSCode**
+- Versionamento com **Git e GitHub**
 
-### 🚀 Tecnologias que já usei:
+Além disso, venho explorando o desenvolvimento de **chatbots** e a integração com serviços externos via APIs.
 
-<div align="center">
-  <!-- Linha 1 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VSCode" />
-</div>
+## 🔧 Tecnologias com as quais já tive contato
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
-### 🌱 Atualmente aprendendo:
+### Também já trabalhei com:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **JavaScript** — Aprofundando na linguagem para desenvolver projetos mais interativos e funcionais.
-- **HTML** — Base de toda estrutura web, aprimorando semântica e acessibilidade.
-- **CSS** — Trabalhando responsividade, animações e organização com boas práticas.
-- **React** — Construindo interfaces modernas com componentes reutilizáveis.
-- **Adobe XD** — Aprendendo prototipação e design de interfaces focadas em UX.
-- **Python** — Explorando automações e estrutura lógica de programação.
-- **Bootstrap / Tailwind** — Acelerando o desenvolvimento com frameworks modernos de estilização.
-- **MySQL** — Entendendo o uso de bancos de dados relacionais com comandos SQL.
-- **AWS** — Conhecendo os principais serviços da nuvem para hospedar e escalar aplicações.
-- **Oracle Virtual Box** — Criando ambientes de testes seguros com máquinas virtuais.
-- **Nmap / Zenmap** — Iniciando no mundo da segurança e mapeamento de redes.
-- **WinSCP** — Utilizando para transferências seguras de arquivos entre servidores remotos.
+## 📚 Em constante aprendizado
+
+Busco projetos práticos que me ajudem a consolidar o conhecimento técnico, especialmente no desenvolvimento de soluções completas (back-end + front-end). Estou aberto a colaborações, feedbacks e oportunidades de aprendizado.
 
 ---
 
-### 📬 Como me encontrar:
+### 📬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-coelho-82b316133/)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:coelho.bruna@outlook.com)
-
----
-
-### 🎨 Meu portfólio visual:
-
-Se você quiser conhecer melhor meu lado criativo, veja meus projetos de design, protótipos e layouts visuais no meu portfólio hospedado no Behance.
-
-<p align="center">
-  <a href="https://www.behance.net/brunacoelh1d89" target="_blank">
-    <img src="https://img.shields.io/badge/-Acessar%20Portfólio%20no%20Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐️ Obrigada por visitar meu perfil! Sinta-se à vontade para explorar meus projetos 👩‍💻
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/bruna-coelho-/))
+[![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coelho.brunac@outlook.com)
