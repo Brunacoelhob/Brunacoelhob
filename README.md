@@ -8,7 +8,7 @@ Gosto de código organizado, de trocar conhecimento com outras pessoas e de evol
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
 - 🎓 Formada em **Análise e Desenvolvimento de Sistemas (ADS)**.
 - 💻 Atuando como **Dev Junior**, focada em aprimorar minhas habilidades de full stack em desenvolvimento web.
@@ -16,11 +16,11 @@ Gosto de código organizado, de trocar conhecimento com outras pessoas e de evol
 
 ---
 
-## 👨‍💻 Dev Full Stack
+## Dev Full Stack
 
 NestJS com TypeScript | Node.js com Angular | MySQL e PostgreSQL | AWS | Docker | CI/CD
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 **Back-end**
 
