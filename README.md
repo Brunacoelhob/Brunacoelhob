@@ -1,6 +1,10 @@
-# 👋 Olá, eu sou a Bruna Coelho!
+# Oiee, eu sou a Bruna!
 
-Sou Desenvolvedora Junior e formada em **Análise e Desenvolvimento de Sistemas (ADS)**. Sou curiosa e a área de tecnologia me instiga a saber cada vez mais. Gosto de aprender sempre que posso.
+Sou Desenvolvedora Full Stack Júnior, formada em **Análise e Desenvolvimento de Sistemas (ADS)**.
+
+Entrei na tecnologia pela curiosidade e fiquei pela vontade de entender como as coisas funcionam por dentro. Hoje trabalho com **NestJS, TypeScript, Angular, bancos relacionais e Docker**, e cada projeto é uma chance de aprender algo que eu ainda não sabia.
+
+Gosto de código organizado, de trocar conhecimento com outras pessoas e de evoluir um pouco a cada dia. 
 
 ---
 
