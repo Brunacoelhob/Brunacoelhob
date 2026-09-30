@@ -1,47 +1,55 @@
-# 👋 Olá, eu sou o Bruna Coelho! 
+# 👋 Olá, eu sou a Bruna Coelho!
 
-Sou um entusiasta da tecnologia e estudante em constante evolução. Iniciei minha jornada na programação pelo **Front-End**, desenvolvendo projetos com HTML, CSS e JavaScript. Atualmente, estou me aprofundando no **Back-End**, aprendendo a criar aplicações robustas, seguras e escaláveis.
-
-## 🚀 Transição para o Back-End
-
-Estou explorando a criação e consumo de **APIs RESTful** com foco em boas práticas, segurança e performance. Meus estudos incluem linguagens como **Java** e **Python**, frameworks como **Spring Boot**, e integração com **bancos de dados relacionais** como **MySQL** e **PostgreSQL**.
-
-Tenho contato com ambientes profissionais como:
-
-- **Apache** (servidor HTTP e outras ferramentas da fundação)
-- **AWS** (uso inicial de serviços como EC2, S3, RDS)
-- **Docker** e **Kubernetes** (para criação e orquestração de containers)
-- IDEs como **IntelliJ IDEA e VSCode**
-- Versionamento com **Git e GitHub**
-
-Além disso, venho explorando o desenvolvimento de **chatbots** e a integração com serviços externos via APIs.
-
-## 🔧 Tecnologias com as quais já tive contato
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-
-### Também já trabalhei com:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 📚 Em constante aprendizado
-
-Busco projetos práticos que me ajudem a consolidar o conhecimento técnico, especialmente no desenvolvimento de soluções completas (back-end + front-end). Estou aberto a colaborações, feedbacks e oportunidades de aprendizado.
+Sou Desenvolvedora Junior e formada em **Análise e Desenvolvimento de Sistemas (ADS)**. Sou curiosa e a área de tecnologia me instiga a saber cada vez mais. Gosto de aprender sempre que posso.
 
 ---
 
-### 📬 Vamos nos conectar?
+### 🚀 Sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/bruna-coelho-/))
-[![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coelho.brunac@outlook.com)
+- 🎓 Formada em **Análise e Desenvolvimento de Sistemas (ADS)**.
+- 💻 Atuando como **Dev Junior**, focada em aprimorar minhas habilidades de full stack em desenvolvimento web.
+- 🛠️ Sempre praticando e construindo projetos para fortalecer meu conhecimento em **Front-End** e **Back-End** e **Postgres** e **Docker** e **AWS**.
+
+---
+
+## 👨‍💻 Dev Full Stack
+
+NestJS com TypeScript | Node.js com Angular | MySQL e PostgreSQL | AWS | Docker | CI/CD
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Back-end**
+
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Front-end**
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Banco de Dados**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📬 Conecte-se comigo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-coelho-/)
